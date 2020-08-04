@@ -1,5 +1,9 @@
 h1 {
   font-family: serif;
   font-size: 3em;
-  color: lightsalmon;
+  color: salmon;
+}
+
+img {
+  display: block;
 }
